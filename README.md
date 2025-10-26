@@ -30,5 +30,5 @@ C言語やJavaScriptを中心に、ロジックとUIの両面から学習して�
 ---
 
 ## 🧩 Contact / Links
-- 🐦 [X（Twitter）]((https://x.com/MeiOku3153))（日々のメモ）
+- 🐦 [X（Twitter）](https://x.com/MeiOku3153)（日々のメモ）
 - 💼 [Wantedly](https://www.wantedly.com/id/mei_oku)（職歴・自己紹介）
