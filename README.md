@@ -42,8 +42,8 @@ C言語・JavaScriptを中心に、ロジックとUIの両面から学習して�
 
 ## 🔗 Links
 - 📝 [note](https://note.com/)：学習・制作記録  
-- 🐦 [X（Twitter）](https://x.com/)：日々の学習ログ  
-- 💼 [Wantedly](https://www.wantedly.com/)：職歴・プロフィール  
+- 🐦 [X（Twitter）](https://x.com/MeiOku3153))：日々の学習ログ  
+- 💼 [Wantedly](https://www.wantedly.com/id/mei_oku)：職歴・プロフィール  
 
 ---
 
