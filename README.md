@@ -1,4 +1,4 @@
-# ('ω') 谷口　輝（Hikaru Taniguchi / MEI-OKU）
+# 谷口　輝（Hikaru Taniguchi / MEI-OKU）
 
 札幌を拠点にWeb開発とプログラミングを学んでいるエンジニア志望です。  
 C言語・JavaScriptを中心に、ロジックとUIの両面から学習しています。  
