@@ -42,7 +42,6 @@ Google Maps API と OpenWeather API を連携し、
 - FastAPIなどによるバックエンド連携  
 - データを動的に管理できる仕組みの導入  
 - 「地域×IT」ポートフォリオの拡充  
-- Polytech Center（2025年12月入校予定）で体系的に学習
 
 ---
 
