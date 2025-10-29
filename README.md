@@ -1,48 +1,65 @@
-# 谷口　輝（Hikaru Taniguchi / MEI-OKU）
+# 👋 こんにちは、谷口 輝（MEI-OKU）です！
 
-札幌を拠点にWeb開発とプログラミングを学んでいるエンジニア志望です。  
-C言語・JavaScriptを中心に、ロジックとUIの両面から学習しています。  
-「地方 × IT」をテーマに、地域の魅力を伝えるWebアプリを作ることを目指しています。
-
----
-
-## 🧩 Tech Stack
-![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+北海道札幌を拠点に、**地域課題×IT** をテーマに学びながらWebアプリ開発をしています。  
+現在は「地方創生」「移住支援」「お天気＋地域情報」など、  
+地域のリアルをデジタルで可視化するアプリの試作を通してスキルを磨いています。
 
 ---
 
-## 🌟 Projects
-| プロジェクト名 | 内容 | リンク |
-|----------------|------|--------|
-| 🌤 **お天気＋タスクアプリ** | OpenWeather APIを使った天気情報＋タスク管理アプリ。MVP版を公開中。 | [weather-todo-app](https://github.com/MEI-OKU/weather-todo-app) |
-| 💻 **C言語 練習プロジェクト** | 電卓・数当てゲームなど、ロジック構築の基礎練習を記録。 | （後日追加予定） |
+## 🧭 これまでに作ったアプリ
+
+### 🌤️ お天気＋ToDoアプリ
+OpenWeather APIとローカルストレージを組み合わせた  
+「天気とタスクを一目で管理できる」Webアプリです。
+
+👉 [お天気＋ToDoアプリを見る](https://mei-oku.github.io/weather-todo-app/)
 
 ---
 
-## 🧠 Learning
-- C言語：構文・ポインタ・構造体などの基礎理解  
-- JavaScript：DOM操作・イベント処理・API通信  
-- HTML / CSS：基本レイアウトとUI設計  
-- Git / GitHub：コード管理・チーム開発の基礎  
-- 🎯 目標資格：HTML5プロフェッショナル認定試験 Lv1  
+### 🗺️ 地域×情報マップ（新作）
+Google Maps API と OpenWeather API を連携し、  
+北海道の地域（浦幌町・神恵内村など）の  
+**移住支援情報＋天気＋地域画像を地図上に表示**するWebアプリです。
+
+📍 [地域×情報マップを見る](https://mei-oku.github.io/map_app/)
+
+![地域×情報マップ スクリーンショット](https://github.com/MEI-OKU/map_app/blob/main/screenshot.png?raw=true)
 
 ---
 
-## 🌱 Future Goals
-- React / Node.jsを学び、フルスタック開発に挑戦  
-- 「地方創生 × IT」をテーマにしたWebアプリを個人開発  
+## ⚙️ 使用技術
+- HTML / CSS / JavaScript  
+- Google Maps API  
+- OpenWeather API  
+- JSON（地域データ管理）  
+- GitHub Pages  
+- Visual Studio Code
 
 ---
 
-## 🔗 Links
-- 🐦 [X（Twitter）](https://x.com/MeiOku3153)：日々の学習ログ  
-- 💼 [Wantedly](https://www.wantedly.com/id/mei_oku)：職歴・プロフィール  
+## 🧩 今後の展開
+- React / TypeScript への移行  
+- FastAPIなどによるバックエンド連携  
+- データを動的に管理できる仕組みの導入  
+- 「地域×IT」ポートフォリオの拡充  
+- Polytech Center（2025年12月入校予定）で体系的に学習
 
 ---
 
-_💬 “やってみなきゃ、やりたいことも分からない。” — そんな気持ちで日々コードを書いています。_
+## 🌱 興味・関心
+- 地方創生・移住支援・地域DX  
+- Webアプリ開発（MVP設計、API連携）  
+- UI/UXと情報デザイン  
+- サテライトオフィス・リモートワーク支援
+
+---
+
+## 📫 連絡・SNS
+- GitHub: [MEI-OKU](https://github.com/MEI-OKU)
+- note: 準備中（開発記録や学びの整理を発信予定）
+
+---
+
+> “地方の風景や暮らしを、デジタルでつなぐ。”  
+> そんな想いで、日々コードを書いています。
+
