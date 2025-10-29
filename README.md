@@ -55,7 +55,7 @@ Google Maps API と OpenWeather API を連携し、
 
 ## 📫 連絡・SNS
 - GitHub: [MEI-OKU](https://github.com/MEI-OKU)
-- X（Twitter）:[MEI-OKU]([https://github.com/MEI-OKU](https://x.com/MeiOku3153))
+- X（Twitter）:[MEI-OKU]((https://x.com/MeiOku3153)
 
 ---
 
