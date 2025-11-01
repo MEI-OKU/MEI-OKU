@@ -39,7 +39,7 @@ Google Maps API と OpenWeather API を連携し、
 
 🗺️ **[Local Connection Appを見る](https://mei-oku.github.io/local-connection-app/)**
 
-![Local Connection App Screenshot](https://github.com/MEI-OKU/local-connection-app/blob/main/images/screenshot.png?raw=true)
+![Local Connection App Screenshot](https://github.com/MEI-OKU/local-connection-app/blob/main/images/screenshot.png)
 
 ---
 
