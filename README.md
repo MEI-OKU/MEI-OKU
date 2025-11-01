@@ -1,4 +1,4 @@
-#  こんにちは、谷口 輝（MEI-OKU）です！
+# こんにちは、谷口 輝（MEI-OKU）です！
 
 北海道札幌を拠点に、**地域課題×IT** をテーマに学びながらWebアプリ開発をしています。  
 現在は「地方創生」「移住支援」「お天気＋地域情報」など、  
@@ -16,10 +16,11 @@ OpenWeather APIとローカルストレージを組み合わせた
 
 ---
 
-### 🗺️ 地域×情報マップ（新作）
+### 🗺️ 地域×情報マップ
 Google Maps API と OpenWeather API を連携し、  
 北海道の地域（浦幌町・神恵内村など）の  
-**移住支援情報＋天気＋地域画像を地図上に表示**するWebアプリです。(随時、地域移住情報の詳細は追加していきます。)
+**移住支援情報＋天気＋地域画像を地図上に表示**するWebアプリです。  
+（随時、地域移住情報の詳細を追加予定）
 
 📍 [地域×情報マップを見る](https://mei-oku.github.io/map_app/)
 
@@ -27,21 +28,36 @@ Google Maps API と OpenWeather API を連携し、
 
 ---
 
+### 🏔️ Local Connection App（新作）
+札幌と地方をつなぐ、**地域創生×IT** をテーマにしたマップ型Webアプリです。  
+地域の空き家・コワーキングスペース・活動拠点などを可視化し、  
+都市と地方をゆるやかにつなぐ「関係人口創出」の仕組みを目指しています。
+
+- OpenWeather API + Leafletで、地図と天気情報をリアルタイム表示  
+- 地域データはJSONで管理し、将来的に動的データベースへ拡張予定  
+- UIはFigma構想をもとに、シンプルかつ直感的な設計に  
+
+🗺️ **[Local Connection Appを見る](https://mei-oku.github.io/local-connection-app/)**
+
+![Local Connection App Screenshot](https://github.com/MEI-OKU/local-connection-app/blob/main/images/screenshot.png?raw=true)
+
+---
+
 ## ⚙️ 使用技術
 - HTML / CSS / JavaScript  
-- Google Maps API  
+- Leaflet（地図描画ライブラリ）  
 - OpenWeather API  
 - JSON（地域データ管理）  
 - GitHub Pages  
-- Visual Studio Code
+- Visual Studio Code  
 
 ---
 
 ## 🧩 今後の展開
 - React / TypeScript への移行  
 - FastAPIなどによるバックエンド連携  
-- データを動的に管理できる仕組みの導入  
-- 「地域×IT」ポートフォリオの拡充  
+- FigmaによるUIモックアップ設計  
+- 地域データの外部API化（例：空き家・移住支援情報の動的取得）
 
 ---
 
@@ -61,4 +77,3 @@ Google Maps API と OpenWeather API を連携し、
 
 > “地方の風景や暮らしを、デジタルでつなぐ。”  
 > そんな想いで、日々コードを書いています。
-
