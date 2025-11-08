@@ -1,4 +1,4 @@
-# こんにちは、谷口 輝（MEI-OKU）です！
+# 👋 こんにちは、谷口 輝（MEI-OKU）です！
 
 北海道札幌を拠点に、**地域課題×IT** をテーマに学びながらWebアプリ開発をしています。  
 現在は「地方創生」「移住支援」「お天気＋地域情報」など、  
@@ -10,9 +10,28 @@
 
 ### 🌤️ お天気＋ToDoアプリ
 OpenWeather APIとローカルストレージを組み合わせた  
-「天気とタスクを一目で管理できる」Webアプリです。
+「天気とタスクを一目で管理できる」Webアプリです。  
 
 👉 [お天気＋ToDoアプリを見る](https://mei-oku.github.io/weather-todo-app/)
+
+---
+
+### 🧺 センタクびより – Weather × Life App
+「今日は洗たくできるかな？」  
+そんな日常の小さな悩みをテクノロジーで解決するWebアプリです。  
+
+OpenWeather API の3時間ごとの天気データをもとに、  
+**気温・湿度・風速・降水確率**から「乾きスコア」を自動計算。  
+最も洗たく物が乾きやすい時間帯を提案します。  
+
+🧮 Dry Score = 2 × 気温 + 3 × 風速 − 0.8 × 湿度 − 0.5 × 降水確率  
+
+- UIは固定ヘッダーとグリッドレイアウトで、スマホでも見やすく設計  
+- デモ用APIキーを使用し、実際の天気データを反映  
+
+👉 [センタクびよりを見る](https://mei-oku.github.io/sentaku-biyori/)
+
+![センタクびより スクリーンショット](https://github.com/MEI-OKU/sentaku-biyori/blob/main/screenshot.png?raw=true)
 
 ---
 
@@ -44,36 +63,57 @@ Google Maps API と OpenWeather API を連携し、
 ---
 
 ## ⚙️ 使用技術
-- HTML / CSS / JavaScript  
-- Leaflet（地図描画ライブラリ）  
-- OpenWeather API  
-- JSON（地域データ管理）  
-- GitHub Pages  
-- Visual Studio Code  
+
+| 分野 | 内容 |
+|------|------|
+| 言語 | HTML / CSS / JavaScript |
+| API | OpenWeather / Google Maps |
+| ライブラリ | Leaflet（地図描画） |
+| データ管理 | JSON / LocalStorage |
+| ホスティング | GitHub Pages |
+| エディタ | Visual Studio Code |
 
 ---
 
-## 🧩 今後の展開
+## 🌈 今後の展開
+
 - React / TypeScript への移行  
 - FastAPIなどによるバックエンド連携  
+- Firebaseとのデータ保存・履歴機能  
 - FigmaによるUIモックアップ設計  
-- 地域データの外部API化（例：空き家・移住支援情報の動的取得）
+- 地域データの外部API化（空き家・移住支援情報など）  
+
+---
+
+## 💡 開発テーマ
+
+- API連携によるデータの見える化  
+- 生活や地域に根ざしたWebサービス設計  
+- MVP（最小実用プロトタイプ）開発  
+- UI/UXデザインと情報構造の最適化  
 
 ---
 
 ## 🌱 興味・関心
+
 - 地方創生・移住支援・地域DX  
 - Webアプリ開発（MVP設計、API連携）  
 - UI/UXと情報デザイン  
-- サテライトオフィス・リモートワーク支援
+- サテライトオフィス・リモートワーク支援  
 
 ---
 
 ## 📫 連絡・SNS
-- GitHub: [MEI-OKU](https://github.com/MEI-OKU)
-- X（Twitter）:[MEI-OKU](https://x.com/MeiOku3153)
+
+- 🐙 GitHub: [MEI-OKU](https://github.com/MEI-OKU)  
+- 🕊️ X（Twitter）: [@MeiOku3153](https://x.com/MeiOku3153)  
+- 💼 Wantedly: [谷口 輝](https://www.wantedly.com/id/mei_oku)  
 
 ---
 
 > “地方の風景や暮らしを、デジタルでつなぐ。”  
 > そんな想いで、日々コードを書いています。
+
+---
+
+© 2025 Hikaru Taniguchi
