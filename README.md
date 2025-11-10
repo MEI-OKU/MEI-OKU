@@ -16,7 +16,8 @@ OpenWeather APIとローカルストレージを組み合わせた
 
 ---
 
-### 🧺 センタクびより – Weather × Life App
+### 🧺 センタクびより – Weather × Life App (新作)
+
 「今日は洗たくできるかな？」  
 そんな日常の小さな悩みをテクノロジーで解決するWebアプリです。  
 
@@ -47,7 +48,7 @@ Google Maps API と OpenWeather API を連携し、
 
 ---
 
-### 🏔️ Local Connection App（新作）
+### 🏔️ Local Connection App
 札幌と地方をつなぐ、**地域創生×IT** をテーマにしたマップ型Webアプリです。  
 地域の空き家・コワーキングスペース・活動拠点などを可視化し、  
 都市と地方をゆるやかにつなぐ「関係人口創出」の仕組みを目指しています。
